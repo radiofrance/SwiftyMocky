@@ -1,5 +1,5 @@
 EXECUTABLE_NAME = swiftymocky
-REPO = https://github.com/MakeAWishFoundation/SwiftyMocky
+REPO = https://github.com/radiofrance/SwiftyMocky
 VERSION = 4.2.0
 
 PREFIX = /usr/local

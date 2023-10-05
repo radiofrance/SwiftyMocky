@@ -1,9 +1,9 @@
-// Generated using Sourcery 1.9.0 — https://github.com/krzysztofzablocki/Sourcery
+// Generated using Sourcery 2.1.1 — https://github.com/krzysztofzablocki/Sourcery
 // DO NOT EDIT
 
 
 // Generated with SwiftyMocky 4.2.0 Apple-Silicon
-// Required Sourcery: 1.9.0
+// Required Sourcery: 2.1.1
 
 
 import SwiftyMocky
